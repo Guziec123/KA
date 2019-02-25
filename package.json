@@ -1,0 +1,19 @@
+{
+  "name": "ka",
+  "version": "1.0.0",
+  "description": "test123",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guziec123/KA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guziec123/KA/issues"
+  },
+  "homepage": "https://github.com/Guziec123/KA#readme"
+}
